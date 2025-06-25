@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- updated -->
+<!-- updatedd -->
 
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXc1eWhmbXJoYzNvazIwNjc2OHd3Mzl6NjY3bmtkMzJ1dHZlZzl3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/96MuY2SfXKC1yrI7Wr/giphy.gif" alt="hacker-gif" />
@@ -74,9 +74,9 @@ It focuses on encrypted payload delivery, stealth process injection, AI-driven m
 ### 📈 Some GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=escf1root&show_icons=true&count_private=true&theme=graywhite&hide_border=true&bg_color=00000000" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=escf1root&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
   
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=escf1root&layout=compact&theme=graywhite&hide_border=true&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php" />
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=escf1root&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=escf1root&theme=graywhite&hide_border=true&background=00000000" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=escf1root&theme=tokyonight&hide_border=true&background=00000000" />
 </p>
