@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 ##### About Me
 
-I'm **escf1root** — a curious web pentester, security explorer, and digital faultfinder.  
+I'm **escf1root** a curious web pentester, security explorer, and digital faultfinder.  
 Rooted in logic, driven by curiosity, I analyze web applications from the inside out, identifying flaws that most overlook.  
-My goal is to learn deeply, break silently, and help systems become more resilient — one exploit at a time.  
+My goal is to learn deeply, break silently, and help systems become more resilient,one exploit at a time.  
 I don't rely on tools — I study how they think.
 
 ---
