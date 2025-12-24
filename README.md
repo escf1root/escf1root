@@ -89,7 +89,8 @@ It focuses on encrypted payload delivery, stealth process injection, AI-driven m
 </table>
 
 <p align="center">
-  <img height="170"
-    src="https://streak-stats.demolab.com?user=escf1root&theme=material-palenight&hide_border=true"
+  <img
+    src="https://streak-stats.demolab.com?user=escf1root&theme=material-palenight"
     alt="GitHub Streak" />
 </p>
+
