@@ -76,14 +76,20 @@ It focuses on encrypted payload delivery, stealth process injection, AI-driven m
 <table>
   <tr>
     <td align="center" style="padding: 10px;">
-      <img height="170" src="https://github-readme-stats.vercel.app/api?username=escf1root&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=00000000](https://github-readme-stats-eight-theta.vercel.app/api?username=escf1root&show_icons=true&theme=material-palenight&include_all_commits=true&cache_seconds=86400" alt="GitHub Stats" />
+      <img height="170"
+        src="https://github-readme-stats-eight-theta.vercel.app/api?username=escf1root&show_icons=true&include_all_commits=true&theme=material-palenight&hide_border=true&cache_seconds=86400"
+        alt="GitHub Stats" />
     </td>
     <td align="center" style="padding: 10px;">
-      <img width="400" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=escf1root&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php" alt="Top Languages" />
+      <img width="400" height="150"
+        src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=escf1root&layout=compact&theme=material-palenight&langs_count=6&hide=jupyter%20notebook,tex,css,php&hide_border=true&cache_seconds=86400"
+        alt="Top Languages" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=escf1root&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
+  <img height="170"
+    src="https://streak-stats.demolab.com?user=escf1root&theme=material-palenight&hide_border=true"
+    alt="GitHub Streak" />
 </p>
