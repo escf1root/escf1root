@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 I'm **escf1root** a curious web pentester, security explorer, and digital faultfinder.  
 Rooted in logic, driven by curiosity, I analyze web applications from the inside out, identifying flaws that most overlook.  
 My goal is to learn deeply, break silently, and help systems become more resilient,one exploit at a time.  
-I don't rely on tools — I study how they think.
+I don't rely on tools I study how they think.
 
 ---
 
-### 🧠 Currently Building: `Nulltrace`
+### Currently Building: `Nulltrace`
 
 `Nulltrace` is a private post-exploitation research framework.  
 It focuses on encrypted payload delivery, stealth process injection, AI-driven mutation, and evasion techniques.
