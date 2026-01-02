@@ -37,7 +37,7 @@ At my core, I believe security isn’t just a technical layer it’s a responsib
 
 This is more than a skill.
 It’s a mindset.
-And I’m here for the long hunt.
+And I’m here for the long hunt!.
 
 ---
 ### 🔧 What I Do
