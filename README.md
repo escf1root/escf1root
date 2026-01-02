@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ##### About Me
 
-I'm **escf1root** — a curious web pentester, a relentless security explorer, and a self-taught digital faultfinder.
+I'm **escf1root** a curious web pentester, a relentless security explorer, and a self-taught digital faultfinder.
 
 My journey isn’t about bragging rights or CVE counts. It’s about understanding how systems truly work and, more importantly, how they quietly fail. I dive into web applications not as an outsider, but as someone who thinks like both a developer and an attacker: tracing data flows, questioning assumptions, and probing the invisible boundaries between features and flaws.
 
