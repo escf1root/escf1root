@@ -18,15 +18,36 @@ Here are some ideas to get you started:
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXc1eWhmbXJoYzNvazIwNjc2OHd3Mzl6NjY3bmtkMzJ1dHZlZzl3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/96MuY2SfXKC1yrI7Wr/giphy.gif" alt="hacker-gif" />
 </p>
 
-## Hi there 👋
+## Welcome to Escf1root Github!
 
 ##### About Me
 
-I'm **escf1root** a curious web pentester, security explorer, and digital faultfinder.  
-Rooted in logic, driven by curiosity, I analyze web applications from the inside out, identifying flaws that most overlook.  
-My goal is to learn deeply, break silently, and help systems become more resilient,one exploit at a time.  
-I don't rely on tools I study how they think.
+I'm **escf1root** — a curious web pentester, a relentless security explorer, and a self-taught digital faultfinder.
 
+My journey isn’t about bragging rights or CVE counts. It’s about understanding how systems truly work and, more importantly, how they quietly fail. I dive into web applications not as an outsider, but as someone who thinks like both a developer and an attacker: tracing data flows, questioning assumptions, and probing the invisible boundaries between features and flaws.
+
+I’m rooted in logic, but fueled by curiosity. That means I don’t just run scanners and call it a day. I read source code (when available), reverse-engineer API behaviors, map authentication flows, and hunt for those subtle, high impact bugs insecure direct object references (IDOR), or logic gaps in password reset mechanisms that automated tools almost always miss.
+
+My philosophy? Break silently, learn deeply, fix meaningfully.
+I don’t exploit to cause chaos. I exploit to reveal truth. Every proof-of-concept I build, every vulnerability I document, is crafted with one goal: to show defenders exactly how an attacker would move, so they can patch not just the symptom, but the root cause.
+
+And about tools I don’t treat them as black boxes. I study how Burp, Nuclei, or custom scripts think. I tweak them, extend them, or build my own from scratch because real offensive security isn’t about button-pushing. It’s about adapting, improvising, and outthinking the system you’re testing.
+
+At my core, I believe security isn’t just a technical layer it’s a responsibility. I test systems to protect users, empower developers, and harden digital spaces especially for students, small businesses, and local platforms that often lack the resources to defend themselves.
+
+This is more than a skill.
+It’s a mindset.
+And I’m here for the long hunt.
+
+---
+### 🔧 What I Do
+
+- I poke web apps for a living looking for sneaky logic bugs, auth bypasses, and weird quirks that turn small flaws into big wins.
+- Run friendly (but realistic) attacks on web platforms to see how well they hold up when real hackers come knocking.
+- Love chaining tiny issues into full account takeovers or data leaks because impact matters more than CVSS scores.
+- Mess with APIs, JWTs, hidden endpoints, and whatever the dev team forgot to lock down.
+- Build my own little hacking tools to automate the boring stuff and focus on the fun parts.
+- Always play fair: no wrecking systems, no keeping data just clear, honest findings that actually help.
 ---
 
 ### Currently Building: `Nulltrace`
@@ -35,7 +56,7 @@ I don't rely on tools I study how they think.
 It focuses on encrypted payload delivery, stealth process injection, AI-driven mutation, and evasion techniques.
 
 🧩 **Function**: Executes encrypted payloads directly in memory, bypasses analysis tools, and adapts to its environment.  
-🎯 **Purpose**: Built to study how modern defenses react — and how silence can be weaponized to bypass them.
+🎯 **Purpose**: Built to study how modern defenses react and how silence can be weaponized to bypass them.
 
 ---
 
