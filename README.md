@@ -42,7 +42,7 @@ And I’m here for the long hunt!.
 ---
 ### 🔧 What I Do
 
-- I poke web apps for a living looking for sneaky logic bugs, auth bypasses, and weird quirks that turn small flaws into big wins.
+- I work with testing web applications for security holes, ways to bypass authentication, and quirks that turn small flaws into big advantages.
 - Run friendly (but realistic) attacks on web platforms to see how well they hold up when real hackers come knocking.
 - Love chaining tiny issues into full account takeovers or data leaks because impact matters more than CVSS scores.
 - Mess with APIs, JWTs, hidden endpoints, and whatever the dev team forgot to lock down.
