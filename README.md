@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## Welcome to Escf1root Github!
 
-##### About Me
+##### About Me.
 
 I'm **escf1root** a curious web pentester, a relentless security explorer, and a self-taught digital faultfinder.
 
